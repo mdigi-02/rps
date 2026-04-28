@@ -1,6 +1,6 @@
 This is a simple web-based rock-paper-scissors game built as part of the online coding course [_JavaScript Tutorial Full Course - Beginner to Pro_](https://youtu.be/EerdGm-ehJQ) by [__SuperSimpleDev__](https://github.com/SuperSimpleDev).
 
-Central concepts:
+Key concepts:
 
 * JavaScript HTML DOM (Document Object Model)
 * Functions & loops
